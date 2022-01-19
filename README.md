@@ -11,7 +11,7 @@ sudo apt-get update && sudo apt-get upgrade
 sudo apt install zsh
 ~~~
 
-# After that close the terminal & re-opened the terminal. So when you install the zsh and start your shell for the first time it finds that you don't have a valid cshrc file and then it will show you this configuration wizard so either you can go through this you can press 0. Next thing you usually do is install OH MY ZSH. But before this we need to install git.
+# After that close the terminal do logout the pc/laptop & re-opened the terminal. So when you install the zsh and start your shell for the first time it finds that you don't have a valid cshrc file and then it will show you this configuration wizard so either you can go through this you can press 0. Next thing you usually do is install OH MY ZSH. But before this we need to install git.
 ~~~
 sudo apt install -y git
 ~~~
